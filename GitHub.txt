@@ -1,0 +1,6 @@
+List of commands in GitHub 
+git clone
+git status
+git add file name   or git add *
+git  commit -m "type here  any comments"
+git push
